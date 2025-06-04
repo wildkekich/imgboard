@@ -1,1 +1,4 @@
-f
+fastapi
+uvicorn
+psycopg2
+SQLAlchemy
